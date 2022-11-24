@@ -3,6 +3,8 @@
 ## About
 Zenity is a small utility that enables display of some Gtk GUI dialogs from CLI scripts.
 
+<a href="about-zenity.png?raw=true" title="Open image"><img src="about-zenity.png"></a>
+
 ## Resources
 GNOME: [Zenity Manual](https://help.gnome.org/users/zenity/stable/ "Zenity Manual - GNOME Help")
 
