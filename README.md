@@ -5,6 +5,9 @@ Zenity is a small utility that enables display of some Gtk GUI dialogs from CLI 
 
 <a href="about-zenity.png?raw=true" title="Open image"><img src="about-zenity.png"></a>
 
+## Bash
+`hello-world` Basic, starter script, to display "Hello World!" message using zenity Info dialog box.
+
 ## Resources
 GNOME: [Zenity Manual](https://help.gnome.org/users/zenity/stable/ "Zenity Manual - GNOME Help")
 

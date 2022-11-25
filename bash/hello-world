@@ -1,0 +1,14 @@
+#!/bin/bash
+
+# ********************************************************************
+# hello-world
+# Display "Hello World!" using zenity
+# (C) 2022, Nenad Trajkovic, MIT License
+# https://github.com/ntrajkovic/zenity-test
+# ********************************************************************
+
+zenity --info \
+  --width=200 \
+  --title="Zenity Test" \
+  --text="Hello World!" \
+    2>/dev/null
