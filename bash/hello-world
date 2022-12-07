@@ -7,8 +7,16 @@
 # https://github.com/ntrajkovic/zenity-test
 # ********************************************************************
 
+echo
+echo "Zenity Test"
+echo "Test Info dialog"
+echo
+
 zenity --info \
   --width=200 \
   --title="Zenity Test" \
   --text="Hello World!" \
     2>/dev/null
+
+echo "https://github.com/ntrajkovic/zenity-test"
+echo
