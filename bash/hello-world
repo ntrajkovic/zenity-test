@@ -3,12 +3,20 @@
 # ********************************************************************
 # hello-world
 # Display "Hello World!" using zenity
-# (C) 2022, Nenad Trajkovic, MIT License
+# (C) 2022 Nenad Trajkovic, MIT License
 # https://github.com/ntrajkovic/zenity-test
 # ********************************************************************
+
+echo
+echo "Zenity Test"
+echo "Test Info dialog"
+echo
 
 zenity --info \
   --width=200 \
   --title="Zenity Test" \
   --text="Hello World!" \
     2>/dev/null
+
+echo "https://github.com/ntrajkovic/zenity-test"
+echo
