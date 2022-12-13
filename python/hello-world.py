@@ -3,7 +3,7 @@
 # ********************************************************************
 # hello-world.py
 # Display "Hello World!" using zenity
-# (C) 2022, Nenad Trajkovic, MIT License
+# (C) 2022 Nenad Trajkovic, MIT License
 # https://github.com/ntrajkovic/zenity-test
 # ********************************************************************
 
