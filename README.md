@@ -1,5 +1,7 @@
 # Zenity Test
 
+Personal notes, tests and resources for zenity.
+
 > _When you don't know what to do, eat an apple pie.<br>
 >  Agent K, MIB_
 
@@ -24,7 +26,7 @@ Slackware 14.2: [Zenity (3.28.0)](https://slackbuilds.org/repository/14.2/deskto
 
 NOT RECOMMENDED RESOURCES !!!<br>
 Mentioned here just as a reminder.<br>
-Deleted from bookmarks, don't research again.
+Deleted from bookmarks, don't research again!
 
 [PyZenity 0.1.4](https://pypi.org/project/PyZenity/ "PyZenity - PyPI") (outdated)<br>
 [@rlebron88/PyZenity](https://github.com/rlebron88/PyZenity "PyZenity - GitHub") (different author)
