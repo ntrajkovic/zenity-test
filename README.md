@@ -1,9 +1,6 @@
 # Zenity Test
 
-Personal notes, tests and resources for zenity.
-
-> _When you don't know what to do, eat an apple pie.<br>
->  Agent K, MIB_
+Test scripts and resources for zenity.
 
 ## About
 Zenity is a small utility that enables display of some Gtk GUI dialogs from CLI scripts.
@@ -11,8 +8,6 @@ Zenity is a small utility that enables display of some Gtk GUI dialogs from CLI 
 `$ zenity --about`
 
 <a href="about-zenity.png?raw=true" title="Open image"><img src="about-zenity.png" width="400px"></a>
-
-Good old Sun Microsystems!
 
 ## Resources
 GNOME: [Zenity Manual](https://help.gnome.org/users/zenity/stable/ "Zenity Manual - GNOME Help")
@@ -41,9 +36,6 @@ Deleted from bookmarks, don't research again!
 `hello-world` Basic, starter script, to display "Hello World!" message using zenity Info dialog.
 
 ## Python
-
-I didn't want to fix the code, so I ate the apple pie and started on my own.
-
 `hello-world.py` Basic, starter script, to display "Hello World!" message using zenity Info dialog.
 
 ## License
