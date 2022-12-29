@@ -8,8 +8,14 @@
 # ********************************************************************
 
 import subprocess
+import shutil
+import sys
 
 if __name__ == "__main__":
+
+    if shutil.which("zenity") is None:
+        print("\nZenity not found.\n")
+        sys.exit(1)
 
     print("\n",
           "Zenity Test\n",

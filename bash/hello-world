@@ -7,6 +7,10 @@
 # https://github.com/ntrajkovic/zenity-test
 # ********************************************************************
 
+# Check for zenity
+command -v zenity >/dev/null 2>&1 || {
+  echo -e "\nZenity not found.\n"; exit 1; }
+
 echo
 echo "Zenity Test"
 echo "Test Info dialog"
